@@ -1,4 +1,4 @@
-# 🏃 NYC Running Events Finder - Claude Agent Edition
+# NYC Running Events Finder - Claude Agent Edition
 
 Automatically search for upcoming running races, fun runs, and marathons in the NYC metro area using Claude AI, then send a curated email summary every Friday.
 
